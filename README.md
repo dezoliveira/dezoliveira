@@ -1,5 +1,5 @@
-🤘 Desenvolvedor Front-End | 3+ anos criando interfaces modernas, responsivas e de alta performance.
-⚛️ Core: JavaScript (ES6+), TypeScript, React.js, Vue.js, Tailwind CSS.
+🤘 Desenvolvedor Web/Front-End | 3+ anos <br>
+⚛️ Core: JavaScript (ES6+), TypeScript, React.js, Vue.js, Tailwind CSS.<br>
 ☕ No Server: Python, Django e APIs RESTful (perto da regra de negócio).
   
 <div style="display: inline_block">
