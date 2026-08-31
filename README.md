@@ -1,6 +1,9 @@
 🤘 Desenvolvedor Web/Front-End | 3+ anos <br>
 ⚛️ Core: JavaScript (ES6+), TypeScript, React.js, Vue.js, Tailwind CSS.<br>
-☕ No Server: Python, Django e APIs RESTful (perto da regra de negócio).
+☕ No Server: Python, Django e APIs RESTful (perto da regra de negócio).<br>
+🕹️ Hobby: Godot / Linux.
+
+<br>
   
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="32" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,10 +17,14 @@
   <img align="center" alt="Bootstrap" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Git" height="64" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
 </div>
-  
+
+<br>
+
 <div>
   <a href = "mailto:andresoliveira@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/dezoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<br>
   
   ![Snake animation](https://github.com/dezoliveira/dezoliveira/blob/output/github-contribution-grid-snake.svg)
