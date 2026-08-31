@@ -1,12 +1,6 @@
-- 🤘 Desenvolvedor Web/Front-End com 2 Anos de Experiência.
-- 🍕 Front End: Javascript, Vue, React, Bootstrap.
-- 😎 Backend: Python, Django, SQL. 
-
- <div style="display: inline-block">
-  <a href="https://github.com/dezoliveira">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dezoliveira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezoliveira&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+🤘 Desenvolvedor Front-End | 3+ anos criando interfaces modernas, responsivas e de alta performance.
+⚛️ Core: JavaScript (ES6+), TypeScript, React.js, Vue.js, Tailwind CSS.
+☕ No Server: Python, Django e APIs RESTful (perto da regra de negócio).
   
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="32" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
